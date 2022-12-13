@@ -7,15 +7,13 @@ This web application allows users to review movies, and then sorts the reviews i
 1. User can submit movies
 
 <p align="center">
-  <img src=".img/Website-review.JPG" width="243">
+  <img src="./img/Website-review.JPG" width="243">
 </p>  
 
 2. User is shown review page with review of the movies (with all negative and positive categories). Database was created and movies are inserted into Cloudant
 <p align="center">
-  <img src=".img/Website-submit-list.JPG">
+  <img src="./img/Website-submit-list.JPG">
 </p>    
-
-  
 
 ## Pre-requisites: Sign up for IBM Cloud account, create a Watson Natural language Understanding, and a Cloudant service
 1. Create an IBM cloud account if you don't have one already.
@@ -62,7 +60,7 @@ Create a fork of this [repository](https://github.com/Vykp00/qkfls-Movie-Reviews
 3. Choose DevOps->Toolchain from the menu that drops down.
 
 <p align="center">
-  <img src="./img/toolchain_menu.PNG" alt="toolchain_menu">
+  <img src="./img/toolchain_menu.png" alt="toolchain_menu">
 </p>  
 
 4. Click **Create toolchain** to start creating one.
