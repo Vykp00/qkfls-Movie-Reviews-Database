@@ -7,7 +7,7 @@ This web application allows users to review movies, and then sorts the reviews i
 1. User can submit movies
 
 <p align="center">
-  <img src="./img/Website-review.JPG" width="243">
+  <img src="./img/Website-review.JPG">
 </p>  
 
 2. User is shown review page with review of the movies (with all negative and positive categories). Database was created and movies are inserted into Cloudant
@@ -66,7 +66,7 @@ Create a fork of this [repository](https://github.com/Vykp00/qkfls-Movie-Reviews
 4. Click **Create toolchain** to start creating one.
 
 <p align="center">
-  <img src="./img/create_toolchain.PNG" alt="create_toolchain">
+  <img src="./img/create_toolchain.png" alt="create_toolchain">
 </p>  
 
 5. In the search bar type `Build your own` and choose the option that comes up as shown in the image below.
